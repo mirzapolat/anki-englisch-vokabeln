@@ -6,4 +6,4 @@ Alle Karten für die Oberstufe (Abitur im Jahr 2022 in Baden-Württemberg) sind 
 
 ### Deck für die Mittelstufe
 
-Alle Karten der Mittelstufe (8. bis 10. Klasse in den Jahren 2017-2020) befinden sich [in einem Deck](./English Vokabeln Mittelstufe.apkg). In diesem Deck sind sie weiterhin in die verschiedenen Klassenstufen in Unterordner unterteilt.
+Alle Karten der Mittelstufe (8. bis 10. Klasse in den Jahren 2017-2020) befinden sich [in einem Deck](./Englisch_Mittelstufe.apkg). In diesem Deck sind sie weiterhin in die verschiedenen Klassenstufen in Unterordner unterteilt.
